@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "module": "esnext",
+    "strict": true
+  }
+}
